@@ -1,0 +1,84 @@
+html,body{
+    background-color: #b08fff;
+    background-image: url('https://i.pinimg.com/564x/e5/a3/f9/e5a3f9febcf9d9335e1eaf1ce25b94fb.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+}
+
+.top-header{
+    background-color: #aa00cc;
+    font-family: 'Caveat', cursive;
+}
+
+.text-header{
+    color: black;
+    padding: 22px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 23px;
+}
+
+.main{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.song{
+    transform: translate(800px, 105px);
+}
+
+.main-content{
+    max-width: 700px;
+    margin: auto;
+}
+
+.box{
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.button{
+    color: black;
+    background-color: lightgray;
+    padding: 7px;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Kalam', cursive;
+}
+
+.name{
+    font-family: 'Francois One', sans-serif;
+}
+
+.text-content{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.image{
+    width: 288px;
+    height: 288px;
+}
+
+.video-box{
+    background-color: white;
+    padding: 20px;
+    margin: 30px;
+}
+
+.video{
+    width: 100%;
+}
+
+.top-footer{
+    background-color: #8b3ffd;
+    padding: 14px;
+}
+
+.text-footer{
+    font-size: 12px;
+}
