@@ -26,10 +26,6 @@ html,body{
     font-weight: 600;
 }
 
-.song{
-    transform: translate(800px, 105px);
-}
-
 .main-content{
     max-width: 700px;
     margin: auto;
@@ -52,11 +48,20 @@ html,body{
 }
 
 .name{
-    font-family: 'Francois One', sans-serif;
+    font-family: 'Varela', sans-serif;
 }
 
 .text-content{
     font-family: 'Josefin Sans', sans-serif;
+}
+
+.ic{
+    color: #335AA6;
+    font-size: 22px;
+    padding: 5px;
+    display: inline-block;
+    text-decoration: none;
+    transform: translate(10px, 0px);
 }
 
 .image{
